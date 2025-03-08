@@ -1,0 +1,16 @@
+{"time":"2025-03-08T21:35:40.280040022+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250308_213540-36lheml7/logs/debug-core.log"}
+{"time":"2025-03-08T21:35:40.399556639+05:30","level":"INFO","msg":"created new stream","id":"36lheml7"}
+{"time":"2025-03-08T21:35:40.39960406+05:30","level":"INFO","msg":"stream: started","id":"36lheml7"}
+{"time":"2025-03-08T21:35:40.39962992+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"36lheml7"}
+{"time":"2025-03-08T21:35:40.399691128+05:30","level":"INFO","msg":"sender: started","stream_id":"36lheml7"}
+{"time":"2025-03-08T21:35:40.399734881+05:30","level":"INFO","msg":"handler: started","stream_id":"36lheml7"}
+{"time":"2025-03-08T21:35:40.715939538+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T21:35:40.822342929+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T21:35:40.822806989+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T21:35:41.789655632+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.363524249,"progress":"1.5KB/1.5KB"},{"desc":"uploading output.log","runtime_seconds":0.006702313},{"desc":"uploading wandb-summary.json","runtime_seconds":0.00669086,"progress":"24B/24B"}],"total_operations":3}}
+{"time":"2025-03-08T21:35:42.39080104+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T21:35:42.73956307+05:30","level":"INFO","msg":"stream: closing","id":"36lheml7"}
+{"time":"2025-03-08T21:35:42.739601333+05:30","level":"INFO","msg":"handler: closed","stream_id":"36lheml7"}
+{"time":"2025-03-08T21:35:42.739627383+05:30","level":"INFO","msg":"sender: closed","stream_id":"36lheml7"}
+{"time":"2025-03-08T21:35:42.739624828+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"36lheml7"}
+{"time":"2025-03-08T21:35:42.739686737+05:30","level":"INFO","msg":"stream: closed","id":"36lheml7"}

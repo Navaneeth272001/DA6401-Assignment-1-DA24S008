@@ -1,0 +1,16 @@
+{"time":"2025-03-08T21:28:58.303391234+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250308_212858-igku9umr/logs/debug-core.log"}
+{"time":"2025-03-08T21:28:58.421243839+05:30","level":"INFO","msg":"created new stream","id":"igku9umr"}
+{"time":"2025-03-08T21:28:58.421283294+05:30","level":"INFO","msg":"stream: started","id":"igku9umr"}
+{"time":"2025-03-08T21:28:58.421369578+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"igku9umr"}
+{"time":"2025-03-08T21:28:58.4213811+05:30","level":"INFO","msg":"sender: started","stream_id":"igku9umr"}
+{"time":"2025-03-08T21:28:58.421456864+05:30","level":"INFO","msg":"handler: started","stream_id":"igku9umr"}
+{"time":"2025-03-08T21:28:58.784559186+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T21:28:58.890543726+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T21:28:58.891166921+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T21:28:59.85683263+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.701330146,"progress":"1.5KB/1.5KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.196812487,"progress":"1.5KB/1.5KB"},{"desc":"uploading output.log","runtime_seconds":0.035749735},{"desc":"uploading wandb-summary.json","runtime_seconds":0.03573674,"progress":"24B/24B"}],"total_operations":4}}
+{"time":"2025-03-08T21:29:01.463490317+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T21:29:01.771239703+05:30","level":"INFO","msg":"stream: closing","id":"igku9umr"}
+{"time":"2025-03-08T21:29:01.771271474+05:30","level":"INFO","msg":"handler: closed","stream_id":"igku9umr"}
+{"time":"2025-03-08T21:29:01.771287264+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"igku9umr"}
+{"time":"2025-03-08T21:29:01.77133266+05:30","level":"INFO","msg":"sender: closed","stream_id":"igku9umr"}
+{"time":"2025-03-08T21:29:01.771384399+05:30","level":"INFO","msg":"stream: closed","id":"igku9umr"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-08T21:58:50.011340667+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250308_215850-bibnkj09/logs/debug-core.log"}
+{"time":"2025-03-08T21:58:50.131241314+05:30","level":"INFO","msg":"created new stream","id":"bibnkj09"}
+{"time":"2025-03-08T21:58:50.131278274+05:30","level":"INFO","msg":"stream: started","id":"bibnkj09"}
+{"time":"2025-03-08T21:58:50.131353738+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"bibnkj09"}
+{"time":"2025-03-08T21:58:50.131381641+05:30","level":"INFO","msg":"handler: started","stream_id":"bibnkj09"}
+{"time":"2025-03-08T21:58:50.131490288+05:30","level":"INFO","msg":"sender: started","stream_id":"bibnkj09"}
+{"time":"2025-03-08T21:58:50.436080454+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T21:58:50.542330586+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T21:58:50.542859865+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T21:58:51.509153139+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.333045026,"progress":"1.5KB/1.5KB"},{"desc":"uploading output.log","runtime_seconds":0.105043339},{"desc":"uploading wandb-summary.json","runtime_seconds":0.105030275,"progress":"24B/24B"}],"total_operations":3}}
+{"time":"2025-03-08T21:58:52.013725621+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T21:58:52.323772579+05:30","level":"INFO","msg":"stream: closing","id":"bibnkj09"}
+{"time":"2025-03-08T21:58:52.323798348+05:30","level":"INFO","msg":"handler: closed","stream_id":"bibnkj09"}
+{"time":"2025-03-08T21:58:52.323812766+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"bibnkj09"}
+{"time":"2025-03-08T21:58:52.32387294+05:30","level":"INFO","msg":"sender: closed","stream_id":"bibnkj09"}
+{"time":"2025-03-08T21:58:52.323918387+05:30","level":"INFO","msg":"stream: closed","id":"bibnkj09"}

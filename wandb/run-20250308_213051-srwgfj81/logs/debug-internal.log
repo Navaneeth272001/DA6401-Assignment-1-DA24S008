@@ -1,0 +1,6 @@
+{"time":"2025-03-08T21:30:51.671413101+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250308_213051-srwgfj81/logs/debug-core.log"}
+{"time":"2025-03-08T21:30:51.789309084+05:30","level":"INFO","msg":"created new stream","id":"srwgfj81"}
+{"time":"2025-03-08T21:30:51.789351957+05:30","level":"INFO","msg":"stream: started","id":"srwgfj81"}
+{"time":"2025-03-08T21:30:51.78942657+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"srwgfj81"}
+{"time":"2025-03-08T21:30:51.789692323+05:30","level":"INFO","msg":"handler: started","stream_id":"srwgfj81"}
+{"time":"2025-03-08T21:30:51.789748502+05:30","level":"INFO","msg":"sender: started","stream_id":"srwgfj81"}

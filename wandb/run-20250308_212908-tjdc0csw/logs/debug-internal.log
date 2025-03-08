@@ -1,0 +1,11 @@
+{"time":"2025-03-08T21:29:08.913710435+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250308_212908-tjdc0csw/logs/debug-core.log"}
+{"time":"2025-03-08T21:29:09.033826556+05:30","level":"INFO","msg":"created new stream","id":"tjdc0csw"}
+{"time":"2025-03-08T21:29:09.033869939+05:30","level":"INFO","msg":"stream: started","id":"tjdc0csw"}
+{"time":"2025-03-08T21:29:09.033955582+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tjdc0csw"}
+{"time":"2025-03-08T21:29:09.034073346+05:30","level":"INFO","msg":"handler: started","stream_id":"tjdc0csw"}
+{"time":"2025-03-08T21:29:09.034138049+05:30","level":"INFO","msg":"sender: started","stream_id":"tjdc0csw"}
+{"time":"2025-03-08T21:29:09.396704872+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T21:29:09.506825489+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T21:29:09.5073099+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T21:29:10.469617671+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.7636581,"progress":"1.5KB/1.5KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.050455689,"progress":"24B/24B"},{"desc":"uploading output.log","runtime_seconds":0.050444227}],"total_operations":3}}
+{"time":"2025-03-08T21:29:12.241979327+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}

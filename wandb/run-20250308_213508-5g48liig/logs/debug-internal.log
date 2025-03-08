@@ -1,0 +1,16 @@
+{"time":"2025-03-08T21:35:08.477350097+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250308_213508-5g48liig/logs/debug-core.log"}
+{"time":"2025-03-08T21:35:08.59494038+05:30","level":"INFO","msg":"created new stream","id":"5g48liig"}
+{"time":"2025-03-08T21:35:08.595004182+05:30","level":"INFO","msg":"stream: started","id":"5g48liig"}
+{"time":"2025-03-08T21:35:08.595044069+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5g48liig"}
+{"time":"2025-03-08T21:35:08.595093634+05:30","level":"INFO","msg":"sender: started","stream_id":"5g48liig"}
+{"time":"2025-03-08T21:35:08.595188085+05:30","level":"INFO","msg":"handler: started","stream_id":"5g48liig"}
+{"time":"2025-03-08T21:35:08.927646684+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-08T21:35:31.017097649+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-08T21:35:31.017763557+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-08T21:35:31.981616482+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-08T21:35:32.021485483+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-0, summary, console lines 7-9","runtime_seconds":0.039754011}],"total_operations":1}}
+{"time":"2025-03-08T21:35:32.302165674+05:30","level":"INFO","msg":"stream: closing","id":"5g48liig"}
+{"time":"2025-03-08T21:35:32.302194129+05:30","level":"INFO","msg":"handler: closed","stream_id":"5g48liig"}
+{"time":"2025-03-08T21:35:32.302208296+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5g48liig"}
+{"time":"2025-03-08T21:35:32.302217974+05:30","level":"INFO","msg":"sender: closed","stream_id":"5g48liig"}
+{"time":"2025-03-08T21:35:32.302294201+05:30","level":"INFO","msg":"stream: closed","id":"5g48liig"}
