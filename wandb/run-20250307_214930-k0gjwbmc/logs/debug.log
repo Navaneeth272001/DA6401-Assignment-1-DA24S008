@@ -1,0 +1,63 @@
+2025-03-07 21:49:30,591 INFO    MainThread:3031351 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-07 21:49:30,591 INFO    MainThread:3031351 [wandb_setup.py:_flush():67] Configure stats pid to 3031351
+2025-03-07 21:49:30,591 INFO    MainThread:3031351 [wandb_setup.py:_flush():67] Loading settings from /mnt/c_disk/navaneeth/.config/wandb/settings
+2025-03-07 21:49:30,591 INFO    MainThread:3031351 [wandb_setup.py:_flush():67] Loading settings from /mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/settings
+2025-03-07 21:49:30,591 INFO    MainThread:3031351 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-07 21:49:30,591 INFO    MainThread:3031351 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250307_214930-k0gjwbmc/logs/debug.log
+2025-03-07 21:49:30,591 INFO    MainThread:3031351 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250307_214930-k0gjwbmc/logs/debug-internal.log
+2025-03-07 21:49:30,591 INFO    MainThread:3031351 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f5b05546020>
+2025-03-07 21:49:30,592 INFO    MainThread:3031351 [wandb_init.py:init():761] calling init triggers
+2025-03-07 21:49:30,592 INFO    MainThread:3031351 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.02, 'architecture': 'CNN', 'dataset': 'CIFAR-100', 'epochs': 10, '_wandb': {}}
+2025-03-07 21:49:30,592 INFO    MainThread:3031351 [wandb_init.py:init():784] starting backend
+2025-03-07 21:49:30,592 INFO    MainThread:3031351 [wandb_init.py:init():788] sending inform_init request
+2025-03-07 21:49:30,595 INFO    MainThread:3031351 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-07 21:49:30,595 INFO    MainThread:3031351 [wandb_init.py:init():798] backend started and connected
+2025-03-07 21:49:30,596 INFO    MainThread:3031351 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-07 21:49:30,596 INFO    MainThread:3031351 [wandb_init.py:init():891] updated telemetry
+2025-03-07 21:49:30,601 INFO    MainThread:3031351 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-07 21:49:31,008 ERROR   MainThread:3031351 [wandb_init.py:init():1478] error in wandb.init()
+Traceback (most recent call last):
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1468, in init
+    return wi.init(run_settings, run_config)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 963, in init
+    raise error
+wandb.errors.errors.CommError: failed to upsert bucket: returned error 404: {"data":{"upsertBucket":null},"errors":[{"message":"entity my-awesome-team-name not found during upsertBucket","path":["upsertBucket"]}]}
+2025-03-07 21:51:02,722 INFO    MainThread:3031351 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250307_215102-by0zew7s/logs/debug.log
+2025-03-07 21:51:02,722 INFO    MainThread:3031351 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250307_215102-by0zew7s/logs/debug-internal.log
+2025-03-07 21:51:02,722 INFO    MainThread:3031351 [wandb_init.py:init():761] calling init triggers
+2025-03-07 21:51:02,722 INFO    MainThread:3031351 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.02, 'architecture': 'CNN', 'dataset': 'CIFAR-100', 'epochs': 10, '_wandb': {}}
+2025-03-07 21:51:02,722 INFO    MainThread:3031351 [wandb_init.py:init():784] starting backend
+2025-03-07 21:51:02,722 INFO    MainThread:3031351 [wandb_init.py:init():788] sending inform_init request
+2025-03-07 21:51:02,723 INFO    MainThread:3031351 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-07 21:51:02,723 INFO    MainThread:3031351 [wandb_init.py:init():798] backend started and connected
+2025-03-07 21:51:02,724 INFO    MainThread:3031351 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-07 21:51:02,724 INFO    MainThread:3031351 [wandb_init.py:init():891] updated telemetry
+2025-03-07 21:51:02,730 INFO    MainThread:3031351 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-07 21:51:03,111 ERROR   MainThread:3031351 [wandb_init.py:init():1478] error in wandb.init()
+Traceback (most recent call last):
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1468, in init
+    return wi.init(run_settings, run_config)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 963, in init
+    raise error
+wandb.errors.errors.CommError: failed to upsert bucket: returned error 400: {"data":{"upsertBucket":null},"errors":[{"message":"you may not log runs directly to your organization, please try using your team entity","path":["upsertBucket"]}]}
+2025-03-07 21:51:32,623 INFO    MainThread:3031351 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250307_215132-0uxnhauq/logs/debug.log
+2025-03-07 21:51:32,623 INFO    MainThread:3031351 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250307_215132-0uxnhauq/logs/debug-internal.log
+2025-03-07 21:51:32,623 INFO    MainThread:3031351 [wandb_init.py:init():761] calling init triggers
+2025-03-07 21:51:32,623 INFO    MainThread:3031351 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.02, 'architecture': 'CNN', 'dataset': 'CIFAR-100', 'epochs': 10, '_wandb': {}}
+2025-03-07 21:51:32,623 INFO    MainThread:3031351 [wandb_init.py:init():784] starting backend
+2025-03-07 21:51:32,623 INFO    MainThread:3031351 [wandb_init.py:init():788] sending inform_init request
+2025-03-07 21:51:32,624 INFO    MainThread:3031351 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-07 21:51:32,624 INFO    MainThread:3031351 [wandb_init.py:init():798] backend started and connected
+2025-03-07 21:51:32,624 INFO    MainThread:3031351 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-07 21:51:32,625 INFO    MainThread:3031351 [wandb_init.py:init():891] updated telemetry
+2025-03-07 21:51:32,631 INFO    MainThread:3031351 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-07 21:51:33,008 ERROR   MainThread:3031351 [wandb_init.py:init():1478] error in wandb.init()
+Traceback (most recent call last):
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1468, in init
+    return wi.init(run_settings, run_config)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 963, in init
+    raise error
+wandb.errors.errors.CommError: failed to upsert bucket: returned error 400: {"data":{"upsertBucket":null},"errors":[{"message":"you may not log runs directly to your organization, please try using your team entity","path":["upsertBucket"]}]}
