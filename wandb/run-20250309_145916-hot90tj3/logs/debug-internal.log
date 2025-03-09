@@ -1,0 +1,16 @@
+{"time":"2025-03-09T14:59:16.964473425+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250309_145916-hot90tj3/logs/debug-core.log"}
+{"time":"2025-03-09T14:59:17.082507347+05:30","level":"INFO","msg":"created new stream","id":"hot90tj3"}
+{"time":"2025-03-09T14:59:17.082576098+05:30","level":"INFO","msg":"stream: started","id":"hot90tj3"}
+{"time":"2025-03-09T14:59:17.082615102+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hot90tj3"}
+{"time":"2025-03-09T14:59:17.082758224+05:30","level":"INFO","msg":"sender: started","stream_id":"hot90tj3"}
+{"time":"2025-03-09T14:59:17.082794142+05:30","level":"INFO","msg":"handler: started","stream_id":"hot90tj3"}
+{"time":"2025-03-09T14:59:17.64585767+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T14:59:21.320015353+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T14:59:21.320730283+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T14:59:22.212647191+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T14:59:22.32282725+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-4, summary","runtime_seconds":0.110050053}],"total_operations":1}}
+{"time":"2025-03-09T14:59:22.537305791+05:30","level":"INFO","msg":"stream: closing","id":"hot90tj3"}
+{"time":"2025-03-09T14:59:22.537322312+05:30","level":"INFO","msg":"handler: closed","stream_id":"hot90tj3"}
+{"time":"2025-03-09T14:59:22.537332231+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hot90tj3"}
+{"time":"2025-03-09T14:59:22.537361216+05:30","level":"INFO","msg":"sender: closed","stream_id":"hot90tj3"}
+{"time":"2025-03-09T14:59:22.537383438+05:30","level":"INFO","msg":"stream: closed","id":"hot90tj3"}
