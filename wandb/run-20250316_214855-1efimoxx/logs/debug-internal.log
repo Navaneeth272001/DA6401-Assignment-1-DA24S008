@@ -1,0 +1,16 @@
+{"time":"2025-03-16T21:48:55.133582056+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250316_214855-1efimoxx/logs/debug-core.log"}
+{"time":"2025-03-16T21:48:55.254102007+05:30","level":"INFO","msg":"created new stream","id":"1efimoxx"}
+{"time":"2025-03-16T21:48:55.254144177+05:30","level":"INFO","msg":"stream: started","id":"1efimoxx"}
+{"time":"2025-03-16T21:48:55.254209782+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"1efimoxx"}
+{"time":"2025-03-16T21:48:55.254511486+05:30","level":"INFO","msg":"sender: started","stream_id":"1efimoxx"}
+{"time":"2025-03-16T21:48:55.254531475+05:30","level":"INFO","msg":"handler: started","stream_id":"1efimoxx"}
+{"time":"2025-03-16T21:48:55.655698052+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T21:49:06.85427647+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T21:49:06.854956083+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T21:49:07.818393491+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.660984386},{"desc":"uploading config.yaml","runtime_seconds":0.37696485,"progress":"859B/859B"}],"total_operations":2}}
+{"time":"2025-03-16T21:49:08.446569957+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T21:49:08.773549583+05:30","level":"INFO","msg":"stream: closing","id":"1efimoxx"}
+{"time":"2025-03-16T21:49:08.773577646+05:30","level":"INFO","msg":"handler: closed","stream_id":"1efimoxx"}
+{"time":"2025-03-16T21:49:08.773593276+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"1efimoxx"}
+{"time":"2025-03-16T21:49:08.773619386+05:30","level":"INFO","msg":"sender: closed","stream_id":"1efimoxx"}
+{"time":"2025-03-16T21:49:08.773683107+05:30","level":"INFO","msg":"stream: closed","id":"1efimoxx"}

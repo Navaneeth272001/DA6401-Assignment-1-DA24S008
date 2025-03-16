@@ -1,0 +1,16 @@
+{"time":"2025-03-16T22:18:50.975381048+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250316_221850-ymoyukpo/logs/debug-core.log"}
+{"time":"2025-03-16T22:18:51.090198877+05:30","level":"INFO","msg":"created new stream","id":"ymoyukpo"}
+{"time":"2025-03-16T22:18:51.090234966+05:30","level":"INFO","msg":"stream: started","id":"ymoyukpo"}
+{"time":"2025-03-16T22:18:51.090510039+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ymoyukpo"}
+{"time":"2025-03-16T22:18:51.090564453+05:30","level":"INFO","msg":"handler: started","stream_id":"ymoyukpo"}
+{"time":"2025-03-16T22:18:51.090662369+05:30","level":"INFO","msg":"sender: started","stream_id":"ymoyukpo"}
+{"time":"2025-03-16T22:18:51.419611162+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T22:19:49.347574515+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T22:19:49.34822928+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T22:19:50.263822843+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T22:19:50.350543068+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 7-9, summary","runtime_seconds":0.086612591}],"total_operations":1}}
+{"time":"2025-03-16T22:19:50.574395159+05:30","level":"INFO","msg":"stream: closing","id":"ymoyukpo"}
+{"time":"2025-03-16T22:19:50.574428853+05:30","level":"INFO","msg":"handler: closed","stream_id":"ymoyukpo"}
+{"time":"2025-03-16T22:19:50.574439222+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ymoyukpo"}
+{"time":"2025-03-16T22:19:50.574481754+05:30","level":"INFO","msg":"sender: closed","stream_id":"ymoyukpo"}
+{"time":"2025-03-16T22:19:50.574518133+05:30","level":"INFO","msg":"stream: closed","id":"ymoyukpo"}

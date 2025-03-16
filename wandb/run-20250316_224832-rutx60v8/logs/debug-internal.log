@@ -1,0 +1,16 @@
+{"time":"2025-03-16T22:48:32.901904548+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250316_224832-rutx60v8/logs/debug-core.log"}
+{"time":"2025-03-16T22:48:33.021953514+05:30","level":"INFO","msg":"created new stream","id":"rutx60v8"}
+{"time":"2025-03-16T22:48:33.02200442+05:30","level":"INFO","msg":"stream: started","id":"rutx60v8"}
+{"time":"2025-03-16T22:48:33.022042723+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rutx60v8"}
+{"time":"2025-03-16T22:48:33.022296323+05:30","level":"INFO","msg":"handler: started","stream_id":"rutx60v8"}
+{"time":"2025-03-16T22:48:33.022339625+05:30","level":"INFO","msg":"sender: started","stream_id":"rutx60v8"}
+{"time":"2025-03-16T22:48:33.333148364+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T22:48:40.761055198+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T22:48:40.761644644+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T22:48:41.695272606+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T22:48:41.764670628+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-4, summary","runtime_seconds":0.069288445}],"total_operations":1}}
+{"time":"2025-03-16T22:48:42.023885173+05:30","level":"INFO","msg":"stream: closing","id":"rutx60v8"}
+{"time":"2025-03-16T22:48:42.023901654+05:30","level":"INFO","msg":"handler: closed","stream_id":"rutx60v8"}
+{"time":"2025-03-16T22:48:42.023911553+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rutx60v8"}
+{"time":"2025-03-16T22:48:42.023944796+05:30","level":"INFO","msg":"sender: closed","stream_id":"rutx60v8"}
+{"time":"2025-03-16T22:48:42.023970765+05:30","level":"INFO","msg":"stream: closed","id":"rutx60v8"}

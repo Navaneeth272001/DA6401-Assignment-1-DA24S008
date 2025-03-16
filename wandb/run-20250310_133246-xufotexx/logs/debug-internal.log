@@ -1,0 +1,16 @@
+{"time":"2025-03-10T13:32:46.870867382+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250310_133246-xufotexx/logs/debug-core.log"}
+{"time":"2025-03-10T13:32:46.985082101+05:30","level":"INFO","msg":"created new stream","id":"xufotexx"}
+{"time":"2025-03-10T13:32:46.985114723+05:30","level":"INFO","msg":"stream: started","id":"xufotexx"}
+{"time":"2025-03-10T13:32:46.985178655+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xufotexx"}
+{"time":"2025-03-10T13:32:46.985199685+05:30","level":"INFO","msg":"sender: started","stream_id":"xufotexx"}
+{"time":"2025-03-10T13:32:46.985282502+05:30","level":"INFO","msg":"handler: started","stream_id":"xufotexx"}
+{"time":"2025-03-10T13:32:47.309357021+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T13:33:00.403756708+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T13:33:00.404466317+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T13:33:01.333124092+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T13:33:01.406323064+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-9, summary","runtime_seconds":0.073083322}],"total_operations":1}}
+{"time":"2025-03-10T13:33:01.658330945+05:30","level":"INFO","msg":"stream: closing","id":"xufotexx"}
+{"time":"2025-03-10T13:33:01.658348409+05:30","level":"INFO","msg":"handler: closed","stream_id":"xufotexx"}
+{"time":"2025-03-10T13:33:01.658360652+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xufotexx"}
+{"time":"2025-03-10T13:33:01.658369288+05:30","level":"INFO","msg":"sender: closed","stream_id":"xufotexx"}
+{"time":"2025-03-10T13:33:01.658421548+05:30","level":"INFO","msg":"stream: closed","id":"xufotexx"}

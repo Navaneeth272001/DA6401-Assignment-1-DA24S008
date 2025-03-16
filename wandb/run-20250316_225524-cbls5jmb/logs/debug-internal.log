@@ -1,0 +1,16 @@
+{"time":"2025-03-16T22:55:24.241131152+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250316_225524-cbls5jmb/logs/debug-core.log"}
+{"time":"2025-03-16T22:55:24.356895686+05:30","level":"INFO","msg":"created new stream","id":"cbls5jmb"}
+{"time":"2025-03-16T22:55:24.356938036+05:30","level":"INFO","msg":"stream: started","id":"cbls5jmb"}
+{"time":"2025-03-16T22:55:24.357558542+05:30","level":"INFO","msg":"sender: started","stream_id":"cbls5jmb"}
+{"time":"2025-03-16T22:55:24.357543904+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cbls5jmb"}
+{"time":"2025-03-16T22:55:24.357636049+05:30","level":"INFO","msg":"handler: started","stream_id":"cbls5jmb"}
+{"time":"2025-03-16T22:55:24.703292738+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T22:55:24.818394095+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T22:55:24.81902995+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T22:55:25.78851134+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.354116733,"progress":"1.5KB/1.5KB"},{"desc":"updating run config","runtime_seconds":0.08482812}],"total_operations":2}}
+{"time":"2025-03-16T22:55:26.616022356+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T22:55:26.930701515+05:30","level":"INFO","msg":"stream: closing","id":"cbls5jmb"}
+{"time":"2025-03-16T22:55:26.93072541+05:30","level":"INFO","msg":"handler: closed","stream_id":"cbls5jmb"}
+{"time":"2025-03-16T22:55:26.930740639+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cbls5jmb"}
+{"time":"2025-03-16T22:55:26.93078363+05:30","level":"INFO","msg":"sender: closed","stream_id":"cbls5jmb"}
+{"time":"2025-03-16T22:55:26.930824327+05:30","level":"INFO","msg":"stream: closed","id":"cbls5jmb"}

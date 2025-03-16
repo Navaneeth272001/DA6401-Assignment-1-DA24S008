@@ -1,0 +1,16 @@
+{"time":"2025-03-10T13:46:42.952981988+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250310_134642-rhlham21/logs/debug-core.log"}
+{"time":"2025-03-10T13:46:43.06800549+05:30","level":"INFO","msg":"created new stream","id":"rhlham21"}
+{"time":"2025-03-10T13:46:43.068028353+05:30","level":"INFO","msg":"stream: started","id":"rhlham21"}
+{"time":"2025-03-10T13:46:43.068081304+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"rhlham21"}
+{"time":"2025-03-10T13:46:43.068094709+05:30","level":"INFO","msg":"sender: started","stream_id":"rhlham21"}
+{"time":"2025-03-10T13:46:43.06816339+05:30","level":"INFO","msg":"handler: started","stream_id":"rhlham21"}
+{"time":"2025-03-10T13:46:43.389112905+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T13:47:07.500798129+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T13:47:07.501410352+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T13:47:08.47354447+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T13:47:08.503096328+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 6-9, summary","runtime_seconds":0.029397193}],"total_operations":1}}
+{"time":"2025-03-10T13:47:08.842701721+05:30","level":"INFO","msg":"stream: closing","id":"rhlham21"}
+{"time":"2025-03-10T13:47:08.84272191+05:30","level":"INFO","msg":"handler: closed","stream_id":"rhlham21"}
+{"time":"2025-03-10T13:47:08.842731258+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"rhlham21"}
+{"time":"2025-03-10T13:47:08.842766284+05:30","level":"INFO","msg":"sender: closed","stream_id":"rhlham21"}
+{"time":"2025-03-10T13:47:08.842794097+05:30","level":"INFO","msg":"stream: closed","id":"rhlham21"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-10T13:18:12.262378433+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250310_131812-cnxnhhap/logs/debug-core.log"}
+{"time":"2025-03-10T13:18:12.377954382+05:30","level":"INFO","msg":"created new stream","id":"cnxnhhap"}
+{"time":"2025-03-10T13:18:12.377986303+05:30","level":"INFO","msg":"stream: started","id":"cnxnhhap"}
+{"time":"2025-03-10T13:18:12.37801131+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"cnxnhhap"}
+{"time":"2025-03-10T13:18:12.378040145+05:30","level":"INFO","msg":"sender: started","stream_id":"cnxnhhap"}
+{"time":"2025-03-10T13:18:12.378060864+05:30","level":"INFO","msg":"handler: started","stream_id":"cnxnhhap"}
+{"time":"2025-03-10T13:18:12.677292062+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T13:18:32.982302946+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T13:18:32.982976083+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T13:18:33.945092129+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.370721859},{"desc":"uploading wandb-summary.json","runtime_seconds":0.370712021,"progress":"228B/228B"},{"desc":"uploading config.yaml","runtime_seconds":0.108485162,"progress":"883B/883B"}],"total_operations":3}}
+{"time":"2025-03-10T13:18:35.067028561+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T13:18:35.37779596+05:30","level":"INFO","msg":"stream: closing","id":"cnxnhhap"}
+{"time":"2025-03-10T13:18:35.377813904+05:30","level":"INFO","msg":"handler: closed","stream_id":"cnxnhhap"}
+{"time":"2025-03-10T13:18:35.377822881+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"cnxnhhap"}
+{"time":"2025-03-10T13:18:35.377860392+05:30","level":"INFO","msg":"sender: closed","stream_id":"cnxnhhap"}
+{"time":"2025-03-10T13:18:35.377891521+05:30","level":"INFO","msg":"stream: closed","id":"cnxnhhap"}

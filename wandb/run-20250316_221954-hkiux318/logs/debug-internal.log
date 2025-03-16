@@ -1,0 +1,16 @@
+{"time":"2025-03-16T22:19:54.333931561+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250316_221954-hkiux318/logs/debug-core.log"}
+{"time":"2025-03-16T22:19:54.448965888+05:30","level":"INFO","msg":"created new stream","id":"hkiux318"}
+{"time":"2025-03-16T22:19:54.44899855+05:30","level":"INFO","msg":"stream: started","id":"hkiux318"}
+{"time":"2025-03-16T22:19:54.44941878+05:30","level":"INFO","msg":"sender: started","stream_id":"hkiux318"}
+{"time":"2025-03-16T22:19:54.449417016+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"hkiux318"}
+{"time":"2025-03-16T22:19:54.449469226+05:30","level":"INFO","msg":"handler: started","stream_id":"hkiux318"}
+{"time":"2025-03-16T22:19:54.796259106+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T22:20:35.918229829+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T22:20:35.918928929+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T22:20:36.880404216+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.654983191},{"desc":"uploading wandb-summary.json","runtime_seconds":0.654976819,"progress":"226B/226B"},{"desc":"uploading config.yaml","runtime_seconds":0.382942682,"progress":"865B/865B"}],"total_operations":3}}
+{"time":"2025-03-16T22:20:37.507444441+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T22:20:37.847344848+05:30","level":"INFO","msg":"stream: closing","id":"hkiux318"}
+{"time":"2025-03-16T22:20:37.847364245+05:30","level":"INFO","msg":"handler: closed","stream_id":"hkiux318"}
+{"time":"2025-03-16T22:20:37.847373993+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"hkiux318"}
+{"time":"2025-03-16T22:20:37.84740393+05:30","level":"INFO","msg":"sender: closed","stream_id":"hkiux318"}
+{"time":"2025-03-16T22:20:37.847433817+05:30","level":"INFO","msg":"stream: closed","id":"hkiux318"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-16T23:08:54.739211073+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250316_230854-4c4seoe2/logs/debug-core.log"}
+{"time":"2025-03-16T23:08:54.856733104+05:30","level":"INFO","msg":"created new stream","id":"4c4seoe2"}
+{"time":"2025-03-16T23:08:54.856774452+05:30","level":"INFO","msg":"stream: started","id":"4c4seoe2"}
+{"time":"2025-03-16T23:08:54.857265814+05:30","level":"INFO","msg":"handler: started","stream_id":"4c4seoe2"}
+{"time":"2025-03-16T23:08:54.857273428+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"4c4seoe2"}
+{"time":"2025-03-16T23:08:54.857319285+05:30","level":"INFO","msg":"sender: started","stream_id":"4c4seoe2"}
+{"time":"2025-03-16T23:08:55.163694121+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T23:08:55.609677677+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T23:08:55.610173507+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T23:08:56.612173293+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/confusion matrix_0_1fbc1868ecf21f8433d8.png","runtime_seconds":0.11178756,"progress":"53.7KB/53.7KB"},{"desc":"uploading output.log","runtime_seconds":0.111770266},{"desc":"uploading wandb-summary.json","runtime_seconds":0.111766129,"progress":"329B/329B"}],"total_operations":3}}
+{"time":"2025-03-16T23:08:57.151955647+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T23:08:57.462182516+05:30","level":"INFO","msg":"stream: closing","id":"4c4seoe2"}
+{"time":"2025-03-16T23:08:57.462208154+05:30","level":"INFO","msg":"handler: closed","stream_id":"4c4seoe2"}
+{"time":"2025-03-16T23:08:57.462222963+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"4c4seoe2"}
+{"time":"2025-03-16T23:08:57.462267707+05:30","level":"INFO","msg":"sender: closed","stream_id":"4c4seoe2"}
+{"time":"2025-03-16T23:08:57.462309957+05:30","level":"INFO","msg":"stream: closed","id":"4c4seoe2"}

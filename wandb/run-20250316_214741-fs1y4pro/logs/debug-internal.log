@@ -1,0 +1,16 @@
+{"time":"2025-03-16T21:47:41.305944426+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250316_214741-fs1y4pro/logs/debug-core.log"}
+{"time":"2025-03-16T21:47:41.418606619+05:30","level":"INFO","msg":"created new stream","id":"fs1y4pro"}
+{"time":"2025-03-16T21:47:41.418646535+05:30","level":"INFO","msg":"stream: started","id":"fs1y4pro"}
+{"time":"2025-03-16T21:47:41.418726888+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"fs1y4pro"}
+{"time":"2025-03-16T21:47:41.418757406+05:30","level":"INFO","msg":"sender: started","stream_id":"fs1y4pro"}
+{"time":"2025-03-16T21:47:41.418840945+05:30","level":"INFO","msg":"handler: started","stream_id":"fs1y4pro"}
+{"time":"2025-03-16T21:47:41.726036392+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T21:48:42.093183868+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T21:48:42.093803808+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T21:48:43.061991326+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T21:48:43.095533094+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":0.033459762}],"total_operations":1}}
+{"time":"2025-03-16T21:48:43.361915905+05:30","level":"INFO","msg":"stream: closing","id":"fs1y4pro"}
+{"time":"2025-03-16T21:48:43.361936284+05:30","level":"INFO","msg":"handler: closed","stream_id":"fs1y4pro"}
+{"time":"2025-03-16T21:48:43.36194502+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"fs1y4pro"}
+{"time":"2025-03-16T21:48:43.362011347+05:30","level":"INFO","msg":"sender: closed","stream_id":"fs1y4pro"}
+{"time":"2025-03-16T21:48:43.362018861+05:30","level":"INFO","msg":"stream: closed","id":"fs1y4pro"}

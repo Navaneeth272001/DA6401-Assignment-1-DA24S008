@@ -1,0 +1,16 @@
+{"time":"2025-03-16T23:08:37.596614205+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250316_230837-s93zoxz4/logs/debug-core.log"}
+{"time":"2025-03-16T23:08:37.711387214+05:30","level":"INFO","msg":"created new stream","id":"s93zoxz4"}
+{"time":"2025-03-16T23:08:37.711432119+05:30","level":"INFO","msg":"stream: started","id":"s93zoxz4"}
+{"time":"2025-03-16T23:08:37.711507582+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"s93zoxz4"}
+{"time":"2025-03-16T23:08:37.711544862+05:30","level":"INFO","msg":"handler: started","stream_id":"s93zoxz4"}
+{"time":"2025-03-16T23:08:37.71160681+05:30","level":"INFO","msg":"sender: started","stream_id":"s93zoxz4"}
+{"time":"2025-03-16T23:08:38.037369938+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T23:08:38.467247309+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T23:08:38.467767655+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T23:08:39.469790269+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/confusion matrix_0_e0f7ef7b809f40b2ac7a.png","runtime_seconds":0.095198791,"progress":"19.1KB/19.1KB"},{"desc":"uploading output.log","runtime_seconds":0.09519329},{"desc":"uploading wandb-summary.json","runtime_seconds":0.095191387,"progress":"329B/329B"}],"total_operations":3}}
+{"time":"2025-03-16T23:08:40.002114912+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T23:08:40.332977147+05:30","level":"INFO","msg":"stream: closing","id":"s93zoxz4"}
+{"time":"2025-03-16T23:08:40.332996894+05:30","level":"INFO","msg":"handler: closed","stream_id":"s93zoxz4"}
+{"time":"2025-03-16T23:08:40.333007905+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"s93zoxz4"}
+{"time":"2025-03-16T23:08:40.333058171+05:30","level":"INFO","msg":"sender: closed","stream_id":"s93zoxz4"}
+{"time":"2025-03-16T23:08:40.333104268+05:30","level":"INFO","msg":"stream: closed","id":"s93zoxz4"}

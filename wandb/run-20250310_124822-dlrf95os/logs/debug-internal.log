@@ -1,0 +1,16 @@
+{"time":"2025-03-10T12:48:22.845271174+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250310_124822-dlrf95os/logs/debug-core.log"}
+{"time":"2025-03-10T12:48:22.961550131+05:30","level":"INFO","msg":"created new stream","id":"dlrf95os"}
+{"time":"2025-03-10T12:48:22.961579075+05:30","level":"INFO","msg":"stream: started","id":"dlrf95os"}
+{"time":"2025-03-10T12:48:22.961631594+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"dlrf95os"}
+{"time":"2025-03-10T12:48:22.961651171+05:30","level":"INFO","msg":"sender: started","stream_id":"dlrf95os"}
+{"time":"2025-03-10T12:48:22.961703468+05:30","level":"INFO","msg":"handler: started","stream_id":"dlrf95os"}
+{"time":"2025-03-10T12:48:23.285504284+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T12:48:23.402257766+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T12:48:23.402584137+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T12:48:24.368946638+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-metadata.json","runtime_seconds":0.392714577,"progress":"1.5KB/1.5KB"},{"desc":"uploading output.log","runtime_seconds":0.066166027},{"desc":"uploading wandb-summary.json","runtime_seconds":0.066149356,"progress":"24B/24B"}],"total_operations":3}}
+{"time":"2025-03-10T12:48:24.911515961+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T12:48:25.197420083+05:30","level":"INFO","msg":"stream: closing","id":"dlrf95os"}
+{"time":"2025-03-10T12:48:25.197437296+05:30","level":"INFO","msg":"handler: closed","stream_id":"dlrf95os"}
+{"time":"2025-03-10T12:48:25.197447285+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"dlrf95os"}
+{"time":"2025-03-10T12:48:25.197458506+05:30","level":"INFO","msg":"sender: closed","stream_id":"dlrf95os"}
+{"time":"2025-03-10T12:48:25.197492679+05:30","level":"INFO","msg":"stream: closed","id":"dlrf95os"}

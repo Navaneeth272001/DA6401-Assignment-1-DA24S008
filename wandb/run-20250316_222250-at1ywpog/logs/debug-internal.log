@@ -1,0 +1,16 @@
+{"time":"2025-03-16T22:22:50.880064477+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250316_222250-at1ywpog/logs/debug-core.log"}
+{"time":"2025-03-16T22:22:50.997684245+05:30","level":"INFO","msg":"created new stream","id":"at1ywpog"}
+{"time":"2025-03-16T22:22:50.997720754+05:30","level":"INFO","msg":"stream: started","id":"at1ywpog"}
+{"time":"2025-03-16T22:22:50.997791108+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"at1ywpog"}
+{"time":"2025-03-16T22:22:50.998100356+05:30","level":"INFO","msg":"handler: started","stream_id":"at1ywpog"}
+{"time":"2025-03-16T22:22:50.998142296+05:30","level":"INFO","msg":"sender: started","stream_id":"at1ywpog"}
+{"time":"2025-03-16T22:22:51.325708218+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T22:23:10.009344694+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T22:23:10.010032272+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T22:23:11.011960115+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.694087616,"progress":"223B/223B"},{"desc":"uploading config.yaml","runtime_seconds":0.429501081,"progress":"868B/868B"}],"total_operations":2}}
+{"time":"2025-03-16T22:23:11.606463387+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T22:23:11.932299212+05:30","level":"INFO","msg":"stream: closing","id":"at1ywpog"}
+{"time":"2025-03-16T22:23:11.932316735+05:30","level":"INFO","msg":"handler: closed","stream_id":"at1ywpog"}
+{"time":"2025-03-16T22:23:11.932326855+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"at1ywpog"}
+{"time":"2025-03-16T22:23:11.932360749+05:30","level":"INFO","msg":"sender: closed","stream_id":"at1ywpog"}
+{"time":"2025-03-16T22:23:11.932389363+05:30","level":"INFO","msg":"stream: closed","id":"at1ywpog"}

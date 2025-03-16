@@ -1,0 +1,10 @@
+{"time":"2025-03-16T23:21:18.035490116+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250316_232118-t5n0ovyf/logs/debug-core.log"}
+{"time":"2025-03-16T23:21:18.151827108+05:30","level":"INFO","msg":"created new stream","id":"t5n0ovyf"}
+{"time":"2025-03-16T23:21:18.151863356+05:30","level":"INFO","msg":"stream: started","id":"t5n0ovyf"}
+{"time":"2025-03-16T23:21:18.151918811+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"t5n0ovyf"}
+{"time":"2025-03-16T23:21:18.151996979+05:30","level":"INFO","msg":"handler: started","stream_id":"t5n0ovyf"}
+{"time":"2025-03-16T23:21:18.151940452+05:30","level":"INFO","msg":"sender: started","stream_id":"t5n0ovyf"}
+{"time":"2025-03-16T23:21:18.44503787+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T23:21:41.478103664+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T23:22:55.746088501+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T23:24:07.167328553+05:30","level":"INFO","msg":"Pausing system monitor"}

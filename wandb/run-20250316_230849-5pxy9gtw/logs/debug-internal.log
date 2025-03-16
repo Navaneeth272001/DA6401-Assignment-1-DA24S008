@@ -1,0 +1,16 @@
+{"time":"2025-03-16T23:08:49.237554689+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250316_230849-5pxy9gtw/logs/debug-core.log"}
+{"time":"2025-03-16T23:08:49.351587304+05:30","level":"INFO","msg":"created new stream","id":"5pxy9gtw"}
+{"time":"2025-03-16T23:08:49.351628853+05:30","level":"INFO","msg":"stream: started","id":"5pxy9gtw"}
+{"time":"2025-03-16T23:08:49.351713223+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"5pxy9gtw"}
+{"time":"2025-03-16T23:08:49.351756184+05:30","level":"INFO","msg":"sender: started","stream_id":"5pxy9gtw"}
+{"time":"2025-03-16T23:08:49.351821278+05:30","level":"INFO","msg":"handler: started","stream_id":"5pxy9gtw"}
+{"time":"2025-03-16T23:08:49.695435298+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T23:08:50.103622963+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T23:08:50.104010628+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T23:08:51.106139466+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.112038875},{"desc":"uploading wandb-summary.json","runtime_seconds":0.11203115,"progress":"329B/329B"},{"desc":"uploading media/images/confusion matrix_0_e0f7ef7b809f40b2ac7a.png","runtime_seconds":0.112027434,"progress":"19.1KB/19.1KB"}],"total_operations":3}}
+{"time":"2025-03-16T23:08:51.645224047+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T23:08:51.982563432+05:30","level":"INFO","msg":"stream: closing","id":"5pxy9gtw"}
+{"time":"2025-03-16T23:08:51.982590955+05:30","level":"INFO","msg":"handler: closed","stream_id":"5pxy9gtw"}
+{"time":"2025-03-16T23:08:51.982606564+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"5pxy9gtw"}
+{"time":"2025-03-16T23:08:51.982623847+05:30","level":"INFO","msg":"sender: closed","stream_id":"5pxy9gtw"}
+{"time":"2025-03-16T23:08:51.982682929+05:30","level":"INFO","msg":"stream: closed","id":"5pxy9gtw"}

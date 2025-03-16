@@ -1,0 +1,16 @@
+{"time":"2025-03-10T12:59:39.55497718+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250310_125939-gde1omql/logs/debug-core.log"}
+{"time":"2025-03-10T12:59:39.668357195+05:30","level":"INFO","msg":"created new stream","id":"gde1omql"}
+{"time":"2025-03-10T12:59:39.668394135+05:30","level":"INFO","msg":"stream: started","id":"gde1omql"}
+{"time":"2025-03-10T12:59:39.668432057+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"gde1omql"}
+{"time":"2025-03-10T12:59:39.668456853+05:30","level":"INFO","msg":"sender: started","stream_id":"gde1omql"}
+{"time":"2025-03-10T12:59:39.668457324+05:30","level":"INFO","msg":"handler: started","stream_id":"gde1omql"}
+{"time":"2025-03-10T12:59:39.99459875+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T12:59:57.011446102+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T12:59:57.012084108+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T12:59:57.943863644+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T12:59:58.013831716+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 9-9, summary","runtime_seconds":0.069899902}],"total_operations":1}}
+{"time":"2025-03-10T12:59:58.279612637+05:30","level":"INFO","msg":"stream: closing","id":"gde1omql"}
+{"time":"2025-03-10T12:59:58.279628878+05:30","level":"INFO","msg":"handler: closed","stream_id":"gde1omql"}
+{"time":"2025-03-10T12:59:58.279638115+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"gde1omql"}
+{"time":"2025-03-10T12:59:58.279675455+05:30","level":"INFO","msg":"sender: closed","stream_id":"gde1omql"}
+{"time":"2025-03-10T12:59:58.279717295+05:30","level":"INFO","msg":"stream: closed","id":"gde1omql"}

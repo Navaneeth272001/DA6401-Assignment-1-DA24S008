@@ -1,0 +1,16 @@
+{"time":"2025-03-10T13:39:16.229536827+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250310_133916-lhe72r1s/logs/debug-core.log"}
+{"time":"2025-03-10T13:39:16.347441704+05:30","level":"INFO","msg":"created new stream","id":"lhe72r1s"}
+{"time":"2025-03-10T13:39:16.347478384+05:30","level":"INFO","msg":"stream: started","id":"lhe72r1s"}
+{"time":"2025-03-10T13:39:16.34753951+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"lhe72r1s"}
+{"time":"2025-03-10T13:39:16.347622528+05:30","level":"INFO","msg":"handler: started","stream_id":"lhe72r1s"}
+{"time":"2025-03-10T13:39:16.347553386+05:30","level":"INFO","msg":"sender: started","stream_id":"lhe72r1s"}
+{"time":"2025-03-10T13:39:16.729789955+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T13:39:41.896625895+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T13:39:41.897415396+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T13:39:42.820533254+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T13:39:42.89956227+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 6-9, summary","runtime_seconds":0.078947592}],"total_operations":1}}
+{"time":"2025-03-10T13:39:43.13936984+05:30","level":"INFO","msg":"stream: closing","id":"lhe72r1s"}
+{"time":"2025-03-10T13:39:43.139393635+05:30","level":"INFO","msg":"handler: closed","stream_id":"lhe72r1s"}
+{"time":"2025-03-10T13:39:43.139404095+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"lhe72r1s"}
+{"time":"2025-03-10T13:39:43.139442548+05:30","level":"INFO","msg":"sender: closed","stream_id":"lhe72r1s"}
+{"time":"2025-03-10T13:39:43.139492252+05:30","level":"INFO","msg":"stream: closed","id":"lhe72r1s"}

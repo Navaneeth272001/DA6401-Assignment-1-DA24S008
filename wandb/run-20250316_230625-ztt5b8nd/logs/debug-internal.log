@@ -1,0 +1,16 @@
+{"time":"2025-03-16T23:06:25.132277251+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250316_230625-ztt5b8nd/logs/debug-core.log"}
+{"time":"2025-03-16T23:06:25.252106949+05:30","level":"INFO","msg":"created new stream","id":"ztt5b8nd"}
+{"time":"2025-03-16T23:06:25.252143117+05:30","level":"INFO","msg":"stream: started","id":"ztt5b8nd"}
+{"time":"2025-03-16T23:06:25.252191449+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ztt5b8nd"}
+{"time":"2025-03-16T23:06:25.252409462+05:30","level":"INFO","msg":"handler: started","stream_id":"ztt5b8nd"}
+{"time":"2025-03-16T23:06:25.252436093+05:30","level":"INFO","msg":"sender: started","stream_id":"ztt5b8nd"}
+{"time":"2025-03-16T23:06:25.585382078+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T23:06:26.088266972+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T23:06:26.088710203+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T23:06:27.090787081+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/confusion matrix_0_36e08d330da71d20cabb.png","runtime_seconds":0.147586857,"progress":"42.9KB/42.9KB"},{"desc":"uploading output.log","runtime_seconds":0.147554545},{"desc":"uploading wandb-summary.json","runtime_seconds":0.147549335,"progress":"330B/330B"}],"total_operations":3}}
+{"time":"2025-03-16T23:06:27.631645861+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T23:06:27.941223509+05:30","level":"INFO","msg":"stream: closing","id":"ztt5b8nd"}
+{"time":"2025-03-16T23:06:27.941249748+05:30","level":"INFO","msg":"handler: closed","stream_id":"ztt5b8nd"}
+{"time":"2025-03-16T23:06:27.941264657+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ztt5b8nd"}
+{"time":"2025-03-16T23:06:27.941321705+05:30","level":"INFO","msg":"sender: closed","stream_id":"ztt5b8nd"}
+{"time":"2025-03-16T23:06:27.941357823+05:30","level":"INFO","msg":"stream: closed","id":"ztt5b8nd"}

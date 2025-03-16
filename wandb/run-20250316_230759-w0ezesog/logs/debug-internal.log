@@ -1,0 +1,16 @@
+{"time":"2025-03-16T23:07:59.414309825+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250316_230759-w0ezesog/logs/debug-core.log"}
+{"time":"2025-03-16T23:07:59.532747008+05:30","level":"INFO","msg":"created new stream","id":"w0ezesog"}
+{"time":"2025-03-16T23:07:59.532783086+05:30","level":"INFO","msg":"stream: started","id":"w0ezesog"}
+{"time":"2025-03-16T23:07:59.532863188+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"w0ezesog"}
+{"time":"2025-03-16T23:07:59.533126627+05:30","level":"INFO","msg":"handler: started","stream_id":"w0ezesog"}
+{"time":"2025-03-16T23:07:59.533166302+05:30","level":"INFO","msg":"sender: started","stream_id":"w0ezesog"}
+{"time":"2025-03-16T23:07:59.842631831+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T23:08:00.452572243+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T23:08:00.453178642+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T23:08:01.455094478+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":1.210207758,"progress":"1.6KB/1.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.86689818,"progress":"1.5KB/1.5KB"},{"desc":"uploading media/images/confusion matrix_0_4629a52d993a5ba3f447.png","runtime_seconds":0.321879181,"progress":"45.8KB/45.8KB"},{"desc":"uploading output.log","runtime_seconds":0.321864674},{"desc":"uploading wandb-summary.json","runtime_seconds":0.321859204,"progress":"330B/330B"},{"desc":"uploading config.yaml","runtime_seconds":0.032650807,"progress":"860B/860B"}],"total_operations":6}}
+{"time":"2025-03-16T23:08:02.711819439+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T23:08:03.041935645+05:30","level":"INFO","msg":"stream: closing","id":"w0ezesog"}
+{"time":"2025-03-16T23:08:03.04195426+05:30","level":"INFO","msg":"handler: closed","stream_id":"w0ezesog"}
+{"time":"2025-03-16T23:08:03.04196463+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"w0ezesog"}
+{"time":"2025-03-16T23:08:03.042021447+05:30","level":"INFO","msg":"sender: closed","stream_id":"w0ezesog"}
+{"time":"2025-03-16T23:08:03.042029914+05:30","level":"INFO","msg":"stream: closed","id":"w0ezesog"}

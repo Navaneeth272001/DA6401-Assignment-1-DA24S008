@@ -1,0 +1,16 @@
+{"time":"2025-03-10T12:47:30.11563393+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250310_124730-raxr1ax7/logs/debug-core.log"}
+{"time":"2025-03-10T12:47:30.234744867+05:30","level":"INFO","msg":"created new stream","id":"raxr1ax7"}
+{"time":"2025-03-10T12:47:30.234769263+05:30","level":"INFO","msg":"stream: started","id":"raxr1ax7"}
+{"time":"2025-03-10T12:47:30.234827652+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"raxr1ax7"}
+{"time":"2025-03-10T12:47:30.234841558+05:30","level":"INFO","msg":"sender: started","stream_id":"raxr1ax7"}
+{"time":"2025-03-10T12:47:30.234887003+05:30","level":"INFO","msg":"handler: started","stream_id":"raxr1ax7"}
+{"time":"2025-03-10T12:47:30.58821227+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-10T12:47:30.702316133+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-10T12:47:30.702862896+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-10T12:47:31.669890537+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.699487473,"progress":"1.6KB/1.6KB"},{"desc":"uploading wandb-metadata.json","runtime_seconds":0.39435791,"progress":"1.5KB/1.5KB"},{"desc":"uploading output.log","runtime_seconds":0.084127645},{"desc":"uploading wandb-summary.json","runtime_seconds":0.08411504,"progress":"24B/24B"}],"total_operations":4}}
+{"time":"2025-03-10T12:47:32.880133399+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-10T12:47:33.189112851+05:30","level":"INFO","msg":"stream: closing","id":"raxr1ax7"}
+{"time":"2025-03-10T12:47:33.189129912+05:30","level":"INFO","msg":"handler: closed","stream_id":"raxr1ax7"}
+{"time":"2025-03-10T12:47:33.189139861+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"raxr1ax7"}
+{"time":"2025-03-10T12:47:33.189164177+05:30","level":"INFO","msg":"sender: closed","stream_id":"raxr1ax7"}
+{"time":"2025-03-10T12:47:33.189189694+05:30","level":"INFO","msg":"stream: closed","id":"raxr1ax7"}

@@ -1,0 +1,16 @@
+{"time":"2025-03-16T23:08:20.338299531+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250316_230820-mb209k0c/logs/debug-core.log"}
+{"time":"2025-03-16T23:08:20.458024236+05:30","level":"INFO","msg":"created new stream","id":"mb209k0c"}
+{"time":"2025-03-16T23:08:20.458121541+05:30","level":"INFO","msg":"stream: started","id":"mb209k0c"}
+{"time":"2025-03-16T23:08:20.458149894+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"mb209k0c"}
+{"time":"2025-03-16T23:08:20.458197625+05:30","level":"INFO","msg":"handler: started","stream_id":"mb209k0c"}
+{"time":"2025-03-16T23:08:20.458228093+05:30","level":"INFO","msg":"sender: started","stream_id":"mb209k0c"}
+{"time":"2025-03-16T23:08:20.783956102+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T23:08:21.256435241+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T23:08:21.256970976+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T23:08:22.259012419+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/confusion matrix_0_104cb3eeb4553bce8d56.png","runtime_seconds":0.165760606,"progress":"19.1KB/19.1KB"},{"desc":"uploading output.log","runtime_seconds":0.165753623},{"desc":"uploading wandb-summary.json","runtime_seconds":0.165750618,"progress":"330B/330B"}],"total_operations":3}}
+{"time":"2025-03-16T23:08:23.372702515+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T23:08:23.689350763+05:30","level":"INFO","msg":"stream: closing","id":"mb209k0c"}
+{"time":"2025-03-16T23:08:23.689368486+05:30","level":"INFO","msg":"handler: closed","stream_id":"mb209k0c"}
+{"time":"2025-03-16T23:08:23.689377734+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"mb209k0c"}
+{"time":"2025-03-16T23:08:23.689432718+05:30","level":"INFO","msg":"sender: closed","stream_id":"mb209k0c"}
+{"time":"2025-03-16T23:08:23.689442006+05:30","level":"INFO","msg":"stream: closed","id":"mb209k0c"}
