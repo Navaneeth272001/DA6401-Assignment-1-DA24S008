@@ -1,0 +1,25 @@
+{"time":"2025-03-17T13:34:20.541901631+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250317_133420-jc46srvb/logs/debug-core.log"}
+{"time":"2025-03-17T13:34:20.657967693+05:30","level":"INFO","msg":"created new stream","id":"jc46srvb"}
+{"time":"2025-03-17T13:34:20.658008851+05:30","level":"INFO","msg":"stream: started","id":"jc46srvb"}
+{"time":"2025-03-17T13:34:20.658121364+05:30","level":"INFO","msg":"handler: started","stream_id":"jc46srvb"}
+{"time":"2025-03-17T13:34:20.658157733+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"jc46srvb"}
+{"time":"2025-03-17T13:34:20.658323338+05:30","level":"INFO","msg":"sender: started","stream_id":"jc46srvb"}
+{"time":"2025-03-17T13:34:20.944081114+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T13:34:47.684463135+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T13:38:16.438464877+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T13:39:07.670603467+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T13:43:25.239700444+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T13:44:18.870255992+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T13:45:56.542786834+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T13:46:50.770225229+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T14:03:53.733241699+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T14:03:53.774623612+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T14:04:25.665796688+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T14:04:27.341915452+05:30","level":"INFO","msg":"stream: closing","id":"jc46srvb"}
+{"time":"2025-03-17T14:04:27.341937193+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T14:04:27.342396179+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T14:04:28.34608291+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T14:04:28.6558506+05:30","level":"INFO","msg":"handler: closed","stream_id":"jc46srvb"}
+{"time":"2025-03-17T14:04:28.655862343+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"jc46srvb"}
+{"time":"2025-03-17T14:04:28.655875969+05:30","level":"INFO","msg":"sender: closed","stream_id":"jc46srvb"}
+{"time":"2025-03-17T14:04:28.655997471+05:30","level":"INFO","msg":"stream: closed","id":"jc46srvb"}

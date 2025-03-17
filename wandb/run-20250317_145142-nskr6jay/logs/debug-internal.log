@@ -1,0 +1,10 @@
+{"time":"2025-03-17T14:51:42.176985907+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250317_145142-nskr6jay/logs/debug-core.log"}
+{"time":"2025-03-17T14:51:42.293869066+05:30","level":"INFO","msg":"created new stream","id":"nskr6jay"}
+{"time":"2025-03-17T14:51:42.293914482+05:30","level":"INFO","msg":"stream: started","id":"nskr6jay"}
+{"time":"2025-03-17T14:51:42.294289825+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"nskr6jay"}
+{"time":"2025-03-17T14:51:42.294397179+05:30","level":"INFO","msg":"handler: started","stream_id":"nskr6jay"}
+{"time":"2025-03-17T14:51:42.29433417+05:30","level":"INFO","msg":"sender: started","stream_id":"nskr6jay"}
+{"time":"2025-03-17T14:51:42.575856121+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T14:52:05.008204766+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T15:13:00.650712317+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T15:13:17.843715969+05:30","level":"INFO","msg":"Pausing system monitor"}

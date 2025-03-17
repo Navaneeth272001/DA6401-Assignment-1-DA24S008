@@ -1,0 +1,16 @@
+{"time":"2025-03-17T14:22:34.925738242+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250317_142234-z4s65274/logs/debug-core.log"}
+{"time":"2025-03-17T14:22:35.044769058+05:30","level":"INFO","msg":"created new stream","id":"z4s65274"}
+{"time":"2025-03-17T14:22:35.044809093+05:30","level":"INFO","msg":"stream: started","id":"z4s65274"}
+{"time":"2025-03-17T14:22:35.044866431+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"z4s65274"}
+{"time":"2025-03-17T14:22:35.045095103+05:30","level":"INFO","msg":"handler: started","stream_id":"z4s65274"}
+{"time":"2025-03-17T14:22:35.045123817+05:30","level":"INFO","msg":"sender: started","stream_id":"z4s65274"}
+{"time":"2025-03-17T14:22:35.363397781+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T14:23:00.813399412+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T14:23:00.813910607+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T14:23:01.816297926+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.678434132,"progress":"115B/115B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.678424816,"progress":"234B/234B"},{"desc":"uploading config.yaml","runtime_seconds":0.424138846,"progress":"868B/868B"}],"total_operations":3}}
+{"time":"2025-03-17T14:23:02.495366819+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T14:23:02.814407122+05:30","level":"INFO","msg":"stream: closing","id":"z4s65274"}
+{"time":"2025-03-17T14:23:02.814426399+05:30","level":"INFO","msg":"handler: closed","stream_id":"z4s65274"}
+{"time":"2025-03-17T14:23:02.814436558+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"z4s65274"}
+{"time":"2025-03-17T14:23:02.814465703+05:30","level":"INFO","msg":"sender: closed","stream_id":"z4s65274"}
+{"time":"2025-03-17T14:23:02.814510157+05:30","level":"INFO","msg":"stream: closed","id":"z4s65274"}

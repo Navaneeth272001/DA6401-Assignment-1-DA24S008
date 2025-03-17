@@ -1,0 +1,16 @@
+{"time":"2025-03-17T16:38:55.927033263+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250317_163855-xcn21aw8/logs/debug-core.log"}
+{"time":"2025-03-17T16:38:56.047761656+05:30","level":"INFO","msg":"created new stream","id":"xcn21aw8"}
+{"time":"2025-03-17T16:38:56.047802965+05:30","level":"INFO","msg":"stream: started","id":"xcn21aw8"}
+{"time":"2025-03-17T16:38:56.047832661+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xcn21aw8"}
+{"time":"2025-03-17T16:38:56.04787983+05:30","level":"INFO","msg":"handler: started","stream_id":"xcn21aw8"}
+{"time":"2025-03-17T16:38:56.047917702+05:30","level":"INFO","msg":"sender: started","stream_id":"xcn21aw8"}
+{"time":"2025-03-17T16:38:56.371652207+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T16:39:14.4439348+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-17T16:39:14.444552971+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-17T16:39:15.446443657+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.694275981},{"desc":"uploading config.yaml","runtime_seconds":0.406108219,"progress":"866B/866B"}],"total_operations":2}}
+{"time":"2025-03-17T16:39:16.049957314+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T16:39:16.369712941+05:30","level":"INFO","msg":"stream: closing","id":"xcn21aw8"}
+{"time":"2025-03-17T16:39:16.369727869+05:30","level":"INFO","msg":"handler: closed","stream_id":"xcn21aw8"}
+{"time":"2025-03-17T16:39:16.369736555+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"xcn21aw8"}
+{"time":"2025-03-17T16:39:16.369769758+05:30","level":"INFO","msg":"sender: closed","stream_id":"xcn21aw8"}
+{"time":"2025-03-17T16:39:16.369791178+05:30","level":"INFO","msg":"stream: closed","id":"xcn21aw8"}

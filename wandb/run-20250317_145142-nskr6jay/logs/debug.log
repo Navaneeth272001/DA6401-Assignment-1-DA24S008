@@ -1,0 +1,25 @@
+2025-03-17 14:51:42,175 INFO    MainThread:1576203 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250317_145142-nskr6jay/logs/debug.log
+2025-03-17 14:51:42,175 INFO    MainThread:1576203 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250317_145142-nskr6jay/logs/debug-internal.log
+2025-03-17 14:51:42,175 INFO    MainThread:1576203 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7fa105f0c040>
+2025-03-17 14:51:42,175 INFO    MainThread:1576203 [wandb_init.py:init():761] calling init triggers
+2025-03-17 14:51:42,175 INFO    MainThread:1576203 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'sigmoid', 'batch_size': 64, 'epochs': 10, 'lr': 0.0001, 'n_hidden': 5, 'n_hidden_units': 128, 'optim_algo': 'rmsprop', 'weight_decay': 0, 'weight_init': 'xavier'}
+config: {'_wandb': {}}
+2025-03-17 14:51:42,175 INFO    MainThread:1576203 [wandb_init.py:init():784] starting backend
+2025-03-17 14:51:42,175 INFO    MainThread:1576203 [wandb_init.py:init():788] sending inform_init request
+2025-03-17 14:51:42,176 INFO    MainThread:1576203 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-17 14:51:42,176 INFO    MainThread:1576203 [wandb_init.py:init():798] backend started and connected
+2025-03-17 14:51:42,177 INFO    MainThread:1576203 [wandb_run.py:_config_callback():1261] config_cb None None {'activation': 'sigmoid', 'batch_size': 64, 'epochs': 10, 'lr': 0.0001, 'n_hidden': 5, 'n_hidden_units': 128, 'optim_algo': 'rmsprop', 'weight_decay': 0, 'weight_init': 'xavier'}
+2025-03-17 14:51:42,177 INFO    MainThread:1576203 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-17 14:51:42,182 INFO    MainThread:1576203 [wandb_init.py:init():891] updated telemetry
+2025-03-17 14:51:42,188 INFO    MainThread:1576203 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-17 14:51:42,573 INFO    MainThread:1576203 [wandb_init.py:init():990] starting run threads in backend
+2025-03-17 14:51:42,649 INFO    MainThread:1576203 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-17 14:51:42,649 INFO    MainThread:1576203 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-17 14:51:42,650 INFO    MainThread:1576203 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-17 14:51:42,650 INFO    MainThread:1576203 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-17 14:51:42,650 INFO    MainThread:1576203 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-17 14:52:05,007 INFO    MainThread:1576203 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 14:52:05,007 INFO    MainThread:1576203 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-17 15:13:00,649 INFO    MainThread:1576203 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-17 15:13:17,843 INFO    MainThread:1576203 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 15:13:17,843 INFO    MainThread:1576203 [wandb_init.py:_pause_backend():564] pausing backend

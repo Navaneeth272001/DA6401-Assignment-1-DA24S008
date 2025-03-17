@@ -1,0 +1,20 @@
+wandb_version: 1
+
+activation:
+  value: relu
+batch_size:
+  value: 64
+epochs:
+  value: 10
+lr:
+  value: 0.0001
+n_hidden:
+  value: 4
+n_hidden_units:
+  value: 64
+optim_algo:
+  value: rmsprop
+weight_decay:
+  value: 0.0005
+weight_init:
+  value: xavier

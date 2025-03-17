@@ -1,0 +1,8 @@
+{"time":"2025-03-17T16:40:35.044629197+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250317_164035-xcn21aw8/logs/debug-core.log"}
+{"time":"2025-03-17T16:40:35.159662271+05:30","level":"INFO","msg":"created new stream","id":"xcn21aw8"}
+{"time":"2025-03-17T16:40:35.159700884+05:30","level":"INFO","msg":"stream: started","id":"xcn21aw8"}
+{"time":"2025-03-17T16:40:35.1597676+05:30","level":"INFO","msg":"sender: started","stream_id":"xcn21aw8"}
+{"time":"2025-03-17T16:40:35.159761449+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"xcn21aw8"}
+{"time":"2025-03-17T16:40:35.15981493+05:30","level":"INFO","msg":"handler: started","stream_id":"xcn21aw8"}
+{"time":"2025-03-17T16:40:35.451845586+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T16:40:59.722467379+05:30","level":"INFO","msg":"Pausing system monitor"}
