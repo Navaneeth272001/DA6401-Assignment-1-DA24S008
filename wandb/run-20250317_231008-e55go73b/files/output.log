@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/mnt/e_disk/DA6401-Assignment-1-DA24S008/train.py", line 302, in <module>
+    model = FeedForwardNN(784, config.n_hidden, [config.n_hidden_units] * config.n_hidden, 10, {'init_method' : config.weight_init})
+AttributeError: 'dict' object has no attribute 'n_hidden'
+Traceback (most recent call last):
+  File "/mnt/e_disk/DA6401-Assignment-1-DA24S008/train.py", line 302, in <module>
+    model = FeedForwardNN(784, config.n_hidden, [config.n_hidden_units] * config.n_hidden, 10, {'init_method' : config.weight_init})
+AttributeError: 'dict' object has no attribute 'n_hidden'

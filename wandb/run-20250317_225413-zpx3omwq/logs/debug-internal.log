@@ -1,0 +1,17 @@
+{"time":"2025-03-17T22:54:13.712520363+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250317_225413-zpx3omwq/logs/debug-core.log"}
+{"time":"2025-03-17T22:54:13.830929799+05:30","level":"INFO","msg":"created new stream","id":"zpx3omwq"}
+{"time":"2025-03-17T22:54:13.830973484+05:30","level":"INFO","msg":"stream: started","id":"zpx3omwq"}
+{"time":"2025-03-17T22:54:13.831457064+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zpx3omwq"}
+{"time":"2025-03-17T22:54:13.831502963+05:30","level":"INFO","msg":"sender: started","stream_id":"zpx3omwq"}
+{"time":"2025-03-17T22:54:13.831572629+05:30","level":"INFO","msg":"handler: started","stream_id":"zpx3omwq"}
+{"time":"2025-03-17T22:54:14.110807601+05:30","level":"ERROR","msg":"HTTP error","status":403,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-03-17T22:54:14.111096513+05:30","level":"ERROR","msg":"sender: upsertRun:","error":"failed to upsert bucket: returned error 403: {\"data\":{\"upsertBucket\":null},\"errors\":[{\"message\":\"permission denied\",\"path\":[\"upsertBucket\"],\"extensions\":{\"code\":\"PERMISSION_ERROR\"}}]}"}
+{"time":"2025-03-17T22:54:15.113670526+05:30","level":"INFO","msg":"stream: closing","id":"zpx3omwq"}
+{"time":"2025-03-17T22:54:15.113759208+05:30","level":"ERROR","msg":"sender: upsertConfig: RunRecord is nil"}
+{"time":"2025-03-17T22:54:15.413018712+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2025-03-17T22:54:15.413091324+05:30","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404: {\"data\":{\"createRunFiles\":null},\"errors\":[{\"message\":\"project myname/train_file not found during createRunFiles\",\"path\":[\"createRunFiles\"]}]}"}
+{"time":"2025-03-17T22:54:15.413465712+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-17T22:54:15.413499848+05:30","level":"INFO","msg":"handler: closed","stream_id":"zpx3omwq"}
+{"time":"2025-03-17T22:54:15.413514807+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zpx3omwq"}
+{"time":"2025-03-17T22:54:15.413558712+05:30","level":"INFO","msg":"sender: closed","stream_id":"zpx3omwq"}
+{"time":"2025-03-17T22:54:15.413602567+05:30","level":"INFO","msg":"stream: closed","id":"zpx3omwq"}

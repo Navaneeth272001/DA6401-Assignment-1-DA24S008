@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/mnt/e_disk/DA6401-Assignment-1-DA24S008/train.py", line 299, in <module>
+    model = FeedForwardNN(
+TypeError: FeedForwardNN.__init__() got an unexpected keyword argument 'input_size'
+Traceback (most recent call last):
+  File "/mnt/e_disk/DA6401-Assignment-1-DA24S008/train.py", line 299, in <module>
+    model = FeedForwardNN(
+TypeError: FeedForwardNN.__init__() got an unexpected keyword argument 'input_size'

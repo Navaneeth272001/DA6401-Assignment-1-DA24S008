@@ -1,0 +1,80 @@
+[34m[1mwandb[0m: [32m[41mERROR[0m Error while calling W&B API: Invalid sweep config: Sweep config must contain method section (<Response [400]>)
+[34m[1mwandb[0m: [32m[41mERROR[0m Invalid sweep config: Sweep config must contain method section
+Traceback (most recent call last):
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/lib/retry.py", line 134, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/internal/internal_api.py", line 398, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/lib/gql_request.py", line 59, in execute
+    request.raise_for_status()
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/requests/models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.wandb.ai/graphql
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/e_disk/DA6401-Assignment-1-DA24S008/train.py", line 301, in <module>
+    sweep_id = wandb.sweep(sweep_config, project='Assignment 1')
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/wandb_sweep.py", line 86, in sweep
+    sweep_id, warnings = api.upsert_sweep(sweep, prior_runs=prior_runs)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/apis/internal.py", line 137, in upsert_sweep
+    return self.api.upsert_sweep(*args, **kwargs)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/apis/normalize.py", line 65, in wrapper
+    raise err
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/apis/normalize.py", line 25, in wrapper
+    return func(*args, **kwargs)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/internal/internal_api.py", line 3351, in upsert_sweep
+    raise e
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/internal/internal_api.py", line 3345, in upsert_sweep
+    response = self.gql(
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/internal/internal_api.py", line 370, in gql
+    ret = self._retry_gql(
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/lib/retry.py", line 150, in __call__
+    retry_timedelta_triggered = check_retry_fn(e)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/util.py", line 855, in no_retry_4xx
+    raise UsageError(body["errors"][0]["message"])
+wandb.errors.errors.UsageError: Invalid sweep config: Sweep config must contain method section
+Traceback (most recent call last):
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/lib/retry.py", line 134, in __call__
+    result = self._call_fn(*args, **kwargs)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/internal/internal_api.py", line 398, in execute
+    return self.client.execute(*args, **kwargs)  # type: ignore
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 52, in execute
+    result = self._get_result(document, *args, **kwargs)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/vendor/gql-0.2.0/wandb_gql/client.py", line 60, in _get_result
+    return self.transport.execute(document, *args, **kwargs)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/lib/gql_request.py", line 59, in execute
+    request.raise_for_status()
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/requests/models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.wandb.ai/graphql
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/mnt/e_disk/DA6401-Assignment-1-DA24S008/train.py", line 301, in <module>
+    sweep_id = wandb.sweep(sweep_config, project='Assignment 1')
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/wandb_sweep.py", line 86, in sweep
+    sweep_id, warnings = api.upsert_sweep(sweep, prior_runs=prior_runs)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/apis/internal.py", line 137, in upsert_sweep
+    return self.api.upsert_sweep(*args, **kwargs)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/apis/normalize.py", line 65, in wrapper
+    raise err
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/apis/normalize.py", line 25, in wrapper
+    return func(*args, **kwargs)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/internal/internal_api.py", line 3351, in upsert_sweep
+    raise e
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/internal/internal_api.py", line 3345, in upsert_sweep
+    response = self.gql(
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/internal/internal_api.py", line 370, in gql
+    ret = self._retry_gql(
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/lib/retry.py", line 150, in __call__
+    retry_timedelta_triggered = check_retry_fn(e)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/util.py", line 855, in no_retry_4xx
+    raise UsageError(body["errors"][0]["message"])
+wandb.errors.errors.UsageError: Invalid sweep config: Sweep config must contain method section

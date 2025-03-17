@@ -1,0 +1,8 @@
+2025-03-17 16:56:12,181 INFO    MainThread:1609663 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250317_165612-xcn21aw8/logs/debug.log
+2025-03-17 16:56:12,181 INFO    MainThread:1609663 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250317_165612-xcn21aw8/logs/debug-internal.log
+2025-03-17 16:56:12,181 INFO    MainThread:1609663 [wandb_init.py:init():761] calling init triggers
+2025-03-17 16:56:12,181 INFO    MainThread:1609663 [wandb_init.py:init():766] wandb.init called with sweep_config: {'activation': 'relu', 'batch_size': 16, 'epochs': 5, 'lr': 0.001, 'n_hidden': 4, 'n_hidden_units': 64, 'optim_algo': 'momentum', 'weight_decay': 0.5, 'weight_init': 'random'}
+config: {'_wandb': {}}
+2025-03-17 16:56:12,181 INFO    MainThread:1609663 [wandb_init.py:init():776] wandb.init() called while a run is active
+2025-03-17 16:56:37,184 INFO    MainThread:1609663 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-17 16:56:37,185 INFO    MainThread:1609663 [wandb_init.py:_pause_backend():564] pausing backend

@@ -1,0 +1,24 @@
+2025-03-17 22:58:58,696 INFO    MainThread:1688953 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-17 22:58:58,696 INFO    MainThread:1688953 [wandb_setup.py:_flush():67] Configure stats pid to 1688953
+2025-03-17 22:58:58,696 INFO    MainThread:1688953 [wandb_setup.py:_flush():67] Loading settings from /mnt/c_disk/navaneeth/.config/wandb/settings
+2025-03-17 22:58:58,696 INFO    MainThread:1688953 [wandb_setup.py:_flush():67] Loading settings from /mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/settings
+2025-03-17 22:58:58,696 INFO    MainThread:1688953 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-17 22:58:58,696 INFO    MainThread:1688953 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250317_225858-9hkqss69/logs/debug.log
+2025-03-17 22:58:58,696 INFO    MainThread:1688953 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250317_225858-9hkqss69/logs/debug-internal.log
+2025-03-17 22:58:58,696 INFO    MainThread:1688953 [wandb_init.py:init():761] calling init triggers
+2025-03-17 22:58:58,696 INFO    MainThread:1688953 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'wandb_project': 'DA24S008_Assignment_1', 'wandb_entity': 'myname', 'dataset': 'fashion_mnist', 'epochs': 10, 'batch_size': 32, 'loss': 'mse', 'optimizer': 'nadam', 'learning_rate': 0.001, 'momentum': 0.9, 'beta': 0.999, 'beta1': 0.9, 'beta2': 0.999, 'epsilon': 1e-08, 'weight_decay': 0.0, 'weight_init': 'xavier_normal', 'num_layers': 5, 'hidden_size': 128, 'activation': 'sigmoid', '_wandb': {}}
+2025-03-17 22:58:58,696 INFO    MainThread:1688953 [wandb_init.py:init():784] starting backend
+2025-03-17 22:58:58,696 INFO    MainThread:1688953 [wandb_init.py:init():788] sending inform_init request
+2025-03-17 22:58:58,699 INFO    MainThread:1688953 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-17 22:58:58,699 INFO    MainThread:1688953 [wandb_init.py:init():798] backend started and connected
+2025-03-17 22:58:58,700 INFO    MainThread:1688953 [wandb_init.py:init():891] updated telemetry
+2025-03-17 22:58:58,707 INFO    MainThread:1688953 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-17 22:58:59,131 ERROR   MainThread:1688953 [wandb_init.py:init():1478] error in wandb.init()
+Traceback (most recent call last):
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 1468, in init
+    return wi.init(run_settings, run_config)
+  File "/mnt/e_disk/da24s008/lib/python3.10/site-packages/wandb/sdk/wandb_init.py", line 963, in init
+    raise error
+wandb.errors.errors.CommError: failed to upsert bucket: returned error 403: {"data":{"upsertBucket":null},"errors":[{"message":"permission denied","path":["upsertBucket"],"extensions":{"code":"PERMISSION_ERROR"}}]}
+2025-03-17 22:59:00,132 INFO    MsgRouterThr:1688953 [mailbox.py:close():129] Closing mailbox, abandoning 0 handles.
