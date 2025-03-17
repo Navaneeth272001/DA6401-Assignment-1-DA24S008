@@ -1,0 +1,12 @@
+{"time":"2025-03-17T23:42:36.41134966+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/mnt/e_disk/DA6401-Assignment-1-DA24S008/wandb/run-20250317_234236-p6v2wtss/logs/debug-core.log"}
+{"time":"2025-03-17T23:42:36.531734762+05:30","level":"INFO","msg":"created new stream","id":"p6v2wtss"}
+{"time":"2025-03-17T23:42:36.531777914+05:30","level":"INFO","msg":"stream: started","id":"p6v2wtss"}
+{"time":"2025-03-17T23:42:36.531857544+05:30","level":"INFO","msg":"handler: started","stream_id":"p6v2wtss"}
+{"time":"2025-03-17T23:42:36.53188704+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"p6v2wtss"}
+{"time":"2025-03-17T23:42:36.531978683+05:30","level":"INFO","msg":"sender: started","stream_id":"p6v2wtss"}
+{"time":"2025-03-17T23:42:36.920910387+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-17T23:42:37.926589246+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T23:42:40.144143712+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T23:42:42.598760267+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-17T23:42:46.974538298+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-17T23:43:05.814623595+05:30","level":"INFO","msg":"Pausing system monitor"}
