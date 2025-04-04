@@ -3,9 +3,9 @@ Repository for Assignment 1 - Navaneethakrishnan - DA24S008
 
 To View the train.py test run:
 
-wandb: ⭐️ View project at https://wandb.ai/da24s008-indian-institute-of-technology-madras/Assignment 1
-wandb: 🚀 View run at https://wandb.ai/da24s008-indian-institute-of-technology-madras/Assignment 1/runs/hz9xie4m
-wandb: 🚀 View run resilient-wood-11 at: https://wandb.ai/da24s008-indian-institute-of-technology-madras/Assignment 1/runs/hz9xie4m
+wandb: ⭐️ View project at [https://wandb.ai/da24s008-indian-institute-of-technology-madras/Assignment 1](https://wandb.ai/da24s008-indian-institute-of-technology-madras/Assignment%201?nw=nwuserda24s008)
+
+wandb report: https://wandb.ai/da24s008-indian-institute-of-technology-madras/Assignment%201/reports/DA24S008-DA6401-Assignment-1--VmlldzoxMTY5NTgxMA
 
 # MNIST Top 3 Model Training with Weights & Biases
 
